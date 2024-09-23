@@ -25,7 +25,7 @@ To run the code in this repository, follow these steps:
 1. Clone the repository:
 ''' bash
 
-git clone https://github.com/vida-lashani/fraud-detection-gnn.git'''
+git clone https://github.com/vida-lashani/GNN_Fraud_Detection.git'''
 2. Install the necessary Python libraries:
 
 ''' pip install -r requirements.txt'''
